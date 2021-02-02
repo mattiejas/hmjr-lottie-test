@@ -1,0 +1,13 @@
+html,
+body {
+  margin: 0;
+}
+
+svg {
+  vertical-align: bottom;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
